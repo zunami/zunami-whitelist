@@ -1,7 +1,6 @@
 # My Adguard Home whitelist
-#Beeper Cloud Messenger
-@@||api.beeper.com^$important
-@@||matrix.beeper.com^$important
+#
+# Finance
 #BitPanda
 @@||api.bitpanda.com^$important
 @@||socket.bitpanda.com^$important
@@ -15,3 +14,20 @@
 @@||api.sparkasse.at^$important
 @@||george.sparkasse.at^$important
 @@||georgego.sparkasse.at^$important
+# Hardware Cloud
+#Garmin
+@@||api.gcs.garmin.com^$important
+@@||omt.garmin.com^$important
+#Somfy
+@@||accounts.somfy.de^$important
+@@||accounts.somfy.com^$important
+@@||service.somfy.com^$important
+# Messenger / Mail
+#Beeper Cloud Messenger
+@@||api.beeper.com^$important
+@@||matrix.beeper.com^$important
+#Protonmail
+@@||api.protonmail.ch^$important
+@@||mail-api.proton.me^$important
+#Signal Messenger
+@@||chat.signal.org^$important
