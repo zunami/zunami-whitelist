@@ -1,0 +1,17 @@
+# My Adguard Home whitelist
+#Beeper Cloud Messenger
+@@||api.beeper.com^$important
+@@||matrix.beeper.com^$important
+#BitPanda
+@@||api.bitpanda.com^$important
+@@||socket.bitpanda.com^$important
+#FlatEx
+@@||konto.flatex.at^$important
+@@||konto.flatex.de^$important
+#Paypal
+@@||www.paypal.com^$important
+@@||api-m.paypal.com^$important
+#Sparkasse AT
+@@||api.sparkasse.at^$important
+@@||george.sparkasse.at^$important
+@@||georgego.sparkasse.at^$important
