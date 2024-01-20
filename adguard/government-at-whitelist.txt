@@ -1,0 +1,6 @@
+# My Adguard Home whitelist
+# Government Austria
+#
+@@||api.a-trust.at^$important
+@@||eid.oesterreich.gv.at^$important
+@@||services.oesterreich.gv.at^$important
