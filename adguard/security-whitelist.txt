@@ -1,0 +1,5 @@
+# My Adguard Home whitelist
+# Security
+#
+#Screentime - Parental control app
+@@||screentimelabs.appspot.com^$important
