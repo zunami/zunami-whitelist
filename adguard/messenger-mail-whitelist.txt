@@ -1,0 +1,16 @@
+# My Adguard Home whitelist
+# Messenger / Mail
+#
+#Beeper Cloud Messenger
+@@||api.beeper.com^$important
+@@||matrix.beeper.com^$important
+#SchoolFox / KidsFox Messenger
+@@||api.schoolfox.com^$important
+@@||apm.schoolfox.com^$important
+@@||api.kidsfox.com^$important
+@@||apm.kidsfox.com^$important
+#Protonmail
+@@||api.protonmail.ch^$important
+@@||mail-api.proton.me^$important
+#Signal Messenger
+@@||chat.signal.org^$important
