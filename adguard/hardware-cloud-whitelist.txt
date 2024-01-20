@@ -1,0 +1,12 @@
+# My Adguard Home whitelist
+# Hardware Cloud
+#
+#Garmin
+@@||api.gcs.garmin.com^$important
+@@||omt.garmin.com^$important
+#Somfy
+@@||accounts.somfy.de^$important
+@@||accounts.somfy.com^$important
+@@||service.somfy.com^$important
+#Synology
+@@||sns.synology.com^$important
