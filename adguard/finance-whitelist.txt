@@ -1,0 +1,20 @@
+# My Adguard Home whitelist
+# Finance
+#
+#BitPanda
+@@||api.bitpanda.com^$important
+@@||socket.bitpanda.com^$important
+#Bondora
+@@||mobileapi.bondora.com^$important
+@@||identity.bondora.com^$important
+#FlatEx
+@@||konto.flatex.at^$important
+@@||konto.flatex.de^$important
+#Paypal
+@@||www.paypal.com^$important
+@@||api-m.paypal.com^$important
+#Sparkasse AT
+@@||api.sparkasse.at^$important
+@@||george.sparkasse.at^$important
+@@||georgego.sparkasse.at^$important
+@@||ssms.sparkasse.at^$important
