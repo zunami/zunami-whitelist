@@ -7,8 +7,11 @@
 #SchoolFox / KidsFox Messenger
 @@||api.schoolfox.com^$important
 @@||apm.schoolfox.com^$important
+@@||api.schoolfox.com.firewall^$important
+@@||apm.schoolfox.com.firewall^$important
 @@||api.kidsfox.com^$important
 @@||apm.kidsfox.com^$important
+@@||urania.webuntis.com^$important
 #Protonmail
 @@||api.protonmail.ch^$important
 @@||mail-api.proton.me^$important
