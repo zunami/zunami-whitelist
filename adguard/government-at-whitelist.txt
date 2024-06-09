@@ -5,3 +5,4 @@
 @@||eid.oesterreich.gv.at^$important
 @@||services.oesterreich.gv.at^$important
 @@||analysis.sozialversicherung.at^$important
+@@||meinebvaeb.at^$important
